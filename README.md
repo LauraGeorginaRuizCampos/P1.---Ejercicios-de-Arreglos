@@ -1,5 +1,8 @@
 # P1.---Ejercicios-de-Arreglos
 
+Estos ejercicio fueron dejados el día 30 de enero del 2025 en clase de Estructura de Datos y fueron realizados en su totalidad en C#. 
+
+
 Descripción detallada de cada ejercicio:
 
 -Ejercicio 1: Se necesita un programa que utilice un arreglo de seis posiciones para almacenar los cinco parciales de un alumno y sacar su promedio, coma, el cual se guardará en la última localidad, punto, mostrar todas las calificaciones y el promedio.
